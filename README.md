@@ -9,5 +9,5 @@
 
 ## Version Control
 
-- [Git Version - TheCyberpunker/payloads](https://github.com/TheCyberpunker/BlueTeam-resources)
-- [Web Version - thecyberpunker.com](https://thecyberpunker.com/blog/blueteam-malware-resources/)
+- [Git Version - TheCyberpunker/BlueTeam-resources](https://github.com/TheCyberpunker/BlueTeam-resources)
+- [Web Version - thecyberpunker.com](https://thecyberpunker.com/blog/blueteam-ransomware-resources/)
