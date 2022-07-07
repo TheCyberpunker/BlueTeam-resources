@@ -1,5 +1,5 @@
 # BlueTeam Summary
-- [Ransomware]()
+- [Ransomware](https://github.com/TheCyberpunker/BlueTeam-resources/blob/main/Ransomware.md)
 - [BlueTeam Resources](#BlueTeam-Resources)
 
 
