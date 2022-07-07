@@ -1,10 +1,11 @@
 # Ransomware Summary
-- [[#Ransomware Resources|Ransomware Resources]]
-- [[#Ransomware decryption|Ransomware decryption]]
-- [[#Ransomware detector|Ransomware detector]]
-- [[#Ransomware samples|Ransomware samples]]
-- [[#Ransomware tools|Ransomware tools]]
-- [[#More info Blueteam|More info Blueteam]]
+
+- [Ransomware Resources](#Ransomware-Resources)
+- [Ransomware decryption](#Ransomware-decryption)
+- [Ransomware detector](#Ransomware-detectors)
+- [Ransomware samples](#ansomware-samples)
+- [Ransomware tools](#Ransomware-tools)
+- [More info Blueteam](#More-info-Blueteam)
 
 
 ## Ransomware Resources
@@ -47,4 +48,4 @@
 
 ## More info Blueteam
 
-[1 - Blue team]()
+[1 - Blue team](https://github.com/TheCyberpunker/BlueTeam-resources)
